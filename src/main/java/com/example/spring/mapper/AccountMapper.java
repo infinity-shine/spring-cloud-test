@@ -8,6 +8,7 @@ public class AccountMapper {
 
     public void saveAccount() {
         System.out.println("Save Account");
+        System.out.println("Fix Hot");
 
     }
 
